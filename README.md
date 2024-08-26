@@ -1,2 +1,2 @@
-# PS06-save-and-clean-data
- methods
+# PS06-csv
+ csv | clean and save data in csv file
