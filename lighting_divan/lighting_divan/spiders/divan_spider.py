@@ -34,7 +34,7 @@ for product in products:
 
 driver.quit()
 
-with open("divna_products.csv", 'w', newline='', encoding='utf-8') as file:
+with open("lighting_products.csv", 'w', newline='', encoding='utf-8') as file:
     writer = csv.writer(file)
     # Создаём первый ряд
     writer.writerow(['Название продукта', 'Цена', 'Ссылка на продукт'])
